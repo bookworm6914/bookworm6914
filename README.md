@@ -5,6 +5,7 @@
 - 📫 How to reach me ...?
 - 😄 Pronouns: ...?
 - ⚡ Fun fact: I've been a Windows guy, while got my first Linux job back in 2001, and it was on a NVRAM driver on Linux kernel 2.4 for a medical device. Got my first Java job back in 2015 when joining Arxan, and it was on Java and Dex bytecode obfuscation and playing games with JVM and Dalvik, anti reversing and temptation etc. Was lucky to join Cisco's OutShift group a few years ago, and realize that I'm comfortable with [bash scripting](https://github.com/bookworm6914/public-shared/tree/main/mac_linux) as well while fighting with K8s and LLM models 😄
+- Continue enjoying the time with the computer 😄
 
 <!---
 bookworm6914/bookworm6914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
